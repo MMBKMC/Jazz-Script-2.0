@@ -1,0 +1,11 @@
+print "New stars are born!" = <NOUN_ADJ>
+
+println "Hello World" = <NOUN_ADV>
+
+println "Hello World"
+                            = <PRESENT_SIMPLE>
+println "Good Bye World"
+
+print "Hello World"
+                            = <PRESENT_CONTINUOUS>
+print "Good Bye World"

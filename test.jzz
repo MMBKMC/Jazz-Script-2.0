@@ -1,0 +1,4 @@
+// test.jzz
+
+print "Hello World"
+print "Good Bye World"
